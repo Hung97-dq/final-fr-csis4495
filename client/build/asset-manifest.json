@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b27dc28a.css",
+    "main.js": "/static/js/main.38a4521a.js",
+    "static/media/CRALogo.png": "/static/media/CRALogo.201de22b3d603779b8db.png",
+    "static/media/LogoText.png": "/static/media/LogoText.3b798a41417a137f4019.png",
+    "index.html": "/index.html",
+    "main.b27dc28a.css.map": "/static/css/main.b27dc28a.css.map",
+    "main.38a4521a.js.map": "/static/js/main.38a4521a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b27dc28a.css",
+    "static/js/main.38a4521a.js"
+  ]
+}
